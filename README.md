@@ -35,7 +35,6 @@ layer 29 sparsity 0.708994
 layer 30 sparsity 0.700701
 layer 31 sparsity 0.728776
 sparsity sanity check 0.6499
-******************************
 evaluating on wikitext2
 nsamples 166
 sample 0
@@ -43,7 +42,7 @@ sample 50
 sample 100
 sample 150
 wikitext2 perplexity: 11.174909591674805
-
+******************************
 llama-1-7b-70%:
 layer 0 sparsity 0.642087
 layer 1 sparsity 0.514183
@@ -78,7 +77,6 @@ layer 29 sparsity 0.750020
 layer 30 sparsity 0.740725
 layer 31 sparsity 0.757812
 sparsity sanity check 0.6999
-******************************
 evaluating on wikitext2
 nsamples 166
 sample 0
@@ -86,8 +84,7 @@ sample 50
 sample 100
 sample 150
 wikitext2 perplexity: 19.80876922607422
-
-
+******************************
 llama-1-7b-75%:
 layer 0 sparsity 0.624269
 layer 1 sparsity 0.585728
@@ -122,7 +119,6 @@ layer 29 sparsity 0.832261
 layer 30 sparsity 0.825241
 layer 31 sparsity 0.800070
 sparsity sanity check 0.7499
-******************************
 evaluating on wikitext2
 nsamples 166
 sample 0
