@@ -21,19 +21,6 @@ For example, to reproduce the llama-1-7b with 50% unstructured sparsity with wan
 ./PruneAndTest.sh llama-1-7b-p50-config.txt
 ```
 
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-
 ## Acknowledgement
 
 This repository is build upon the [SparseGPT](https://github.com/IST-DASLab/sparsegpt) repository.
