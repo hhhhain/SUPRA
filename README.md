@@ -8,7 +8,7 @@ Installation instructions can be found in [INSTALL.md](INSTALL.md).
 
 The PruneAndTest.sh contains all the commands to replicate the main results (Table1 and Table 2) in our paper.
 
-Below is an example command for pruning LLaMA-7B using SUPRA w/. Wanda, to achieve unstructured 50% sparsity.
+Below is an example command for pruning LLaMA-7B using SUPRA w/ Wanda, to achieve unstructured 50% sparsity.
 
 ```sh
 For example, to reproduce the llama-1-7b with 50% unstructured sparsity with wanda, run:
